@@ -15,3 +15,5 @@
 | 基本邏輯 | [Boolean.pdf](https://drive.google.com/file/d/0B2iNVzqlGaGIZlNkNUd2NFAwUGc/view?usp=sharing) |
 | 條件判斷式 | [If.pdf](https://drive.google.com/open?id=0B2iNVzqlGaGISU5XR2hqaEpOQUU) |
 | While迴圈 | [While.pdf](https://drive.google.com/open?id=0B2iNVzqlGaGIbEJiUnd6aFdWeUU) |
+| 輸出輸入 | [IO.pdf](https://drive.google.com/open?id=0B11wpONoNJX2TXFzZTNVR2NweEk) |
+| 資料型態 | [Type.pdf](https://drive.google.com/open?id=0B11wpONoNJX2b1JFc1hWZUhCa2s) |
