@@ -8,7 +8,7 @@
 | 輸出與變數 | [輸出與變數.pdf](https://drive.google.com/file/d/0B5P2VH3szaKEUUtnMV9ySUQ4NVU/view?usp=sharing) |
 | Ipython Notebook | [week01.html](./slides/week01/Week1.html) |
 
-## 第二週投影片 02/21
+## 第二週投影片 03/06
 
 | 主題 | 投影片 |
 | ---- |  ----  |
@@ -18,3 +18,14 @@
 | 輸出輸入 | [IO.pdf](https://drive.google.com/open?id=0B11wpONoNJX2TXFzZTNVR2NweEk) |
 | 資料型態 | [Type.pdf](https://drive.google.com/open?id=0B11wpONoNJX2b1JFc1hWZUhCa2s) |
 | Ipython Notebook | [week02.html](./slides/week02/Week2.html) |
+
+
+## 第二週投影片 03/13
+
+| 主題 | 投影片 |
+| ---- |  ----  |
+| List(1) | [List1.pdf](https://drive.google.com/file/d/0B5P2VH3szaKEMDFYRGpxSEw3RXM/view?usp=sharing) |
+| List(2) | TBD |
+| List Example | [List.html](./slides/week03/List.html) |
+| String | TBD |
+| String Example | TBD |
