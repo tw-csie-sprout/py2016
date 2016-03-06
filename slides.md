@@ -17,4 +17,4 @@
 | While迴圈 | [While.pdf](https://drive.google.com/open?id=0B2iNVzqlGaGIbEJiUnd6aFdWeUU) |
 | 輸出輸入 | [IO.pdf](https://drive.google.com/open?id=0B11wpONoNJX2TXFzZTNVR2NweEk) |
 | 資料型態 | [Type.pdf](https://drive.google.com/open?id=0B11wpONoNJX2b1JFc1hWZUhCa2s) |
-| Ipython Notebook | [week02.html](https://drive.google.com/file/d/0B5P2VH3szaKESEN2dXhMV0hleGc/view?usp=sharing) |
+| Ipython Notebook | [week02.html](./slides/week02/Week2.html) |
