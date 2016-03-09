@@ -24,8 +24,7 @@
 
 | 主題 | 投影片 |
 | ---- |  ----  |
-| List(1) | TBD |
-| List(2) | TBD |
-| List Example | TBD |
-| String | TBD |
-| String Example | TBD |
+| List(1) | [List.pdf](https://drive.google.com/open?id=0B5P2VH3szaKEeU5sWGVCWlFWTlU) |
+| List(2) | [List1.pdf](https://drive.google.com/open?id=0B5P2VH3szaKEbWpmRVFHVk90OVE) |
+| List Example | [List.html](./slides/week03/List.html) |
+| String Example | [String.html](./slides/week03/String.html) |
