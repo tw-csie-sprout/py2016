@@ -25,8 +25,8 @@
 | 主題 | 投影片 |
 | ---- |  ----  |
 | for、range | [ForRange.pdf](https://drive.google.com/open?id=0B2iNVzqlGaGIekNSeld0M1R3Y2c) |
-| List(1) | [List.pdf](https://drive.google.com/open?id=0B5P2VH3szaKEbkFGNGo0OWVjSUE) |
-| List(2) | [List1.pdf](https://drive.google.com/open?id=0B5P2VH3szaKEbWpmRVFHVk90OVE) |
+| List(1) | [List1.pdf](https://drive.google.com/open?id=0B5P2VH3szaKEbTViMlBUOEt4ZHM) |
+| List(2) | [List2.pdf](https://drive.google.com/open?id=0B5P2VH3szaKEbWpmRVFHVk90OVE) |
 | List Example | [List.html](./slides/week03/List.html) |
 | String | [String.pdf](https://drive.google.com/open?id=0B5P2VH3szaKESFBfOFJ3bVJ6UkE) |
 | String Example | [String.html](./slides/week03/String.html) |
