@@ -28,14 +28,13 @@
 | List(1) | [List1.pdf](https://drive.google.com/open?id=0B5P2VH3szaKEbTViMlBUOEt4ZHM) |
 | List(2) | [List2.pdf](https://drive.google.com/open?id=0B5P2VH3szaKEbWpmRVFHVk90OVE) |
 | List Example | [List.html](./slides/week03/List.html) |
-| String | [String.pdf](https://drive.google.com/open?id=0B5P2VH3szaKESFBfOFJ3bVJ6UkE) |
 | String Example | [String.html](./slides/week03/String.html) |
 
 ## 第四週投影片
 
 | 主題 | 投影片 |
 | ---- | ------ |
-| String(I) | [waiting...](#) |
+| String | [String.pdf](https://drive.google.com/open?id=0B5P2VH3szaKESFBfOFJ3bVJ6UkE) |
 | function  | [function.pdf](./slides/week04/function.pdf) | 
 | import    | [import](./slides/week04/import/) |
 
