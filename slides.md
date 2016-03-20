@@ -37,6 +37,6 @@
 | ---- | ------ |
 | String(I) | [waiting...](#) |
 | function  | [function.pdf](./slides/week04/function.pdf) | 
-| import    | [waiting](#) |
+| import    | [import](./slides/week04/import/) |
 
 
