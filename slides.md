@@ -20,7 +20,7 @@
 | Ipython Notebook | [week02.html](./slides/week02/Week2.html) |
 
 
-## 第二週投影片 03/13
+## 第三週投影片 03/13
 
 | 主題 | 投影片 |
 | ---- |  ----  |
@@ -30,3 +30,13 @@
 | List Example | [List.html](./slides/week03/List.html) |
 | String | [String.pdf](https://drive.google.com/open?id=0B5P2VH3szaKESFBfOFJ3bVJ6UkE) |
 | String Example | [String.html](./slides/week03/String.html) |
+
+## 第四週投影片
+
+| 主題 | 投影片 |
+| ---- | ------ |
+| String(I) | [waiting...](#) |
+| function  | [function.pdf](./slides/week04/function.pdf) | 
+| import    | [waiting](#) |
+
+
