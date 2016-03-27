@@ -43,5 +43,5 @@
 | 主題 | 投影片 |
 | ---- | ------ |
 | Dictionary | [Dictionary.pdf](https://drive.google.com/open?id=0B6wbwXKOYgvhNVNhcm5tRk9xcTA) |
-| Lambda Function  | [lambda.pdf](https://drive.google.com/open?id=0B6wbwXKOYgvhNVNhcm5tRk9xcTA) | 
-| List Comprehension    | [list-comp](https://drive.google.com/open?id=0B6wbwXKOYgvhNVNhcm5tRk9xcTA) |
+| Lambda Function  | [lambda.pdf](https://drive.google.com/open?id=0B6wbwXKOYgvhWmhRMmpaLTFfU0E) | 
+| List Comprehension    | [list-comp.pdf](https://drive.google.com/open?id=0B11wpONoNJX2U01fck5oTWxndm8) |
