@@ -29,7 +29,7 @@
 | List(2) | [List2.pdf](https://drive.google.com/open?id=0B5P2VH3szaKEbWpmRVFHVk90OVE) |
 | List Example | [List.html](./slides/week03/List.html) |
 
-## 第四週投影片
+## 第四週投影片 03/20
 
 | 主題 | 投影片 |
 | ---- | ------ |
@@ -38,4 +38,10 @@
 | function  | [function.pdf](./slides/week04/function.pdf) | 
 | import    | [import](./slides/week04/import/) |
 
+## 第五週投影片 03/27
 
+| 主題 | 投影片 |
+| ---- | ------ |
+| Dictionary | [Dictionary.pdf](https://drive.google.com/open?id=0B6wbwXKOYgvhNVNhcm5tRk9xcTA) |
+| Lambda Function  | [lambda.pdf](https://drive.google.com/open?id=0B6wbwXKOYgvhNVNhcm5tRk9xcTA) | 
+| List Comprehension    | [list-comp](https://drive.google.com/open?id=0B6wbwXKOYgvhNVNhcm5tRk9xcTA) |
