@@ -45,3 +45,4 @@
 | Dictionary | [Dictionary.pdf](https://drive.google.com/open?id=0B6wbwXKOYgvhNVNhcm5tRk9xcTA) |
 | Lambda Function  | [lambda.pdf](https://drive.google.com/open?id=0B6wbwXKOYgvhWmhRMmpaLTFfU0E) | 
 | List Comprehension    | [list-comp.pdf](https://drive.google.com/open?id=0B11wpONoNJX2U01fck5oTWxndm8) |
+| Dictionary Example | [Dict.html](./slides/week05/dict.html) |
