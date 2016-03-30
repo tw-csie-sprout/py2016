@@ -46,3 +46,4 @@
 | Lambda Function  | [lambda.pdf](https://drive.google.com/open?id=0B6wbwXKOYgvhWmhRMmpaLTFfU0E) | 
 | List Comprehension    | [list-comp.pdf](https://drive.google.com/open?id=0B11wpONoNJX2U01fck5oTWxndm8) |
 | Dictionary Example | [Dict.html](./slides/week05/dict.html) |
+| Skill Example | [Skill.html](./slides/week05/Skill.html) |
