@@ -47,3 +47,10 @@
 | List Comprehension    | [list-comp.pdf](https://drive.google.com/open?id=0B11wpONoNJX2U01fck5oTWxndm8) |
 | Dictionary Example | [Dict.html](./slides/week05/dict.html) |
 | Skill Example | [Skill.html](./slides/week05/Skill.html) |
+
+## 第六週投影片 04/10
+| ---- | ------ |
+| Tuple | [tuple.pdf](https://drive.google.com/open?id=0B11wpONoNJX2dmNTU0pDd3F1QzA) |
+| None&Scope | [none_scope.pdf](https://drive.google.com/open?id=0B11wpONoNJX2dk10UTNTdVpYM3M)
+| 複習I | [複習.pdf](https://drive.google.com/open?id=0B5P2VH3szaKEV3ctSzVoUlAyRUE)
+| 複習II | [複習2.pdf](https://drive.google.com/open?id=0B5P2VH3szaKEbGNiejkxVS1XYkk)
