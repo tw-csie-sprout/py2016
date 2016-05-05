@@ -62,3 +62,11 @@
 | Overview | [Overview.pdf](https://drive.google.com/open?id=0B5P2VH3szaKEMkpVUHBpaXNGS3M) |
 | Html | [Html.pdf](https://drive.google.com/open?id=0B11wpONoNJX2RklsWVNQcWNjcHM) |
 | Http | [Http.pdf](https://drive.google.com/open?id=0B11wpONoNJX2RjFBVG1zNzByTG8) |
+
+## 第十週投影片 05/01
+| 主題 | 投影片 |
+| ---- | ------ |
+| Requests範例 | [request1.html](./slides/week10/request1.html) |
+| 錦囊妙計 Volume.1 | [tools.pdf](https://drive.google.com/open?id=0B5P2VH3szaKENkZfamhiY0ppODQ) |
+| 錦囊妙計 Volume.1 檔案操作 範例 | [File.html](./slides/week10/File.html) |
+| 錦囊妙計 Volume.1 好用模組 範例 | [Tools.html](./slides/week10/Tools.html) |
