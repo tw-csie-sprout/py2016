@@ -63,7 +63,7 @@
 | Html | [Html.pdf](https://drive.google.com/open?id=0B11wpONoNJX2RklsWVNQcWNjcHM) |
 | Http | [Http.pdf](https://drive.google.com/open?id=0B11wpONoNJX2RjFBVG1zNzByTG8) |
 
-## 第十週投影片 05/01
+## 第十週投影片 05/08
 | 主題 | 投影片 |
 | ---- | ------ |
 | Requests範例 | [request1.html](./slides/week10/request1.html) |
