@@ -67,6 +67,7 @@
 | 主題 | 投影片 |
 | ---- | ------ |
 | Requests範例 | [request1.html](./slides/week10/request1.html) |
+| Requests | [request.pdf](https://drive.google.com/open?id=0B5P2VH3szaKERzJaUk0zTGNpaHc)
 | 錦囊妙計 Volume.1 | [tools.pdf](https://drive.google.com/open?id=0B5P2VH3szaKENkZfamhiY0ppODQ) |
 | 錦囊妙計 Volume.1 檔案操作 範例 | [File.html](./slides/week10/File.html) |
 | 錦囊妙計 Volume.1 好用模組 範例 | [Tools.html](./slides/week10/Tools.html) |
