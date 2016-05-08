@@ -70,3 +70,4 @@
 | 錦囊妙計 Volume.1 | [tools.pdf](https://drive.google.com/open?id=0B5P2VH3szaKENkZfamhiY0ppODQ) |
 | 錦囊妙計 Volume.1 檔案操作 範例 | [File.html](./slides/week10/File.html) |
 | 錦囊妙計 Volume.1 好用模組 範例 | [Tools.html](./slides/week10/Tools.html) |
+| 認證考題解 | [exam.pdf](https://drive.google.com/file/d/0B11wpONoNJX2QVNMTWMzU180Y0k/view?usp=sharing) |
