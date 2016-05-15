@@ -72,3 +72,12 @@
 | 錦囊妙計 Volume.1 檔案操作 範例 | [File.html](./slides/week10/File.html) |
 | 錦囊妙計 Volume.1 好用模組 範例 | [Tools.html](./slides/week10/Tools.html) |
 | 認證考題解 | [exam.pdf](https://drive.google.com/file/d/0B11wpONoNJX2QVNMTWMzU180Y0k/view?usp=sharing) |
+
+
+## 第十一週投影片 05/15
+| 主題 | 投影片 |
+| ---- | ------ |
+| 大作業解答 | [mojim.pdf](https://drive.google.com/open?id=0B6wbwXKOYgvhc21BR1VYVWZpd2s) |
+| Tree | [tree.pdf](https://drive.google.com/open?id=0B11wpONoNJX2ZzI3ZDZQUHpfTTQ) |
+| 美湯 | [bs4.pdf](https://drive.google.com/open?id=0B11wpONoNJX2MW1LVVBXb2hvYWs) |
+| 認證考範例code | [認證考.html](./slides/week11/認證考.html) |
