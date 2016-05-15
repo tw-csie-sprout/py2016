@@ -79,4 +79,5 @@
 | ---- | ------ |
 | Tree | [tree.pdf](https://drive.google.com/file/d/0B11wpONoNJX2ZzI3ZDZQUHpfTTQ/view?usp=sharing) |
 | 鎂湯 | [bs4.pdf](https://drive.google.com/file/d/0B11wpONoNJX2MW1LVVBXb2hvYWs/view?usp=sharing) |
+| 鎂湯 example | [bs4.html](./slides/week11/bs4.html) |
 
