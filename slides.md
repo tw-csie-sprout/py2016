@@ -86,7 +86,6 @@
 ## 第十二週投影片 05/22
 | 主題 | 投影片 |
 | ---- | ------ |
-| 所有範例 | [week12's slide](./slides/week12/) |
 | Intro to Bottle | [Bottle.pdf](https://drive.google.com/open?id=0B5P2VH3szaKEYjFPODhTMnItRFk) |
 | 範例1 Hello, world! | [example_hellowordl.py](./slides/week12/example_helloworld.py) |
 | 範例2 Hello, Route! | [example_route.py](./slides/week12/example_route.py) |
