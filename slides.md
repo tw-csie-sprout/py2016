@@ -81,3 +81,14 @@
 | Tree | [tree.pdf](https://drive.google.com/file/d/0B11wpONoNJX2ZzI3ZDZQUHpfTTQ/view?usp=sharing) |
 | 鎂湯 | [bs4.pdf](https://drive.google.com/file/d/0B11wpONoNJX2MW1LVVBXb2hvYWs/view?usp=sharing) |
 | 認證考範例code | [認證考.html](./slides/week11/認證考.html) |
+
+## 第十二週投影片 05/22
+| 主題 | 投影片 |
+| Intro to Bottle | [Bottle.pdf](https://drive.google.com/open?id=0B5P2VH3szaKEYjFPODhTMnItRFk) |
+| 範例1 Hello, world! | [example_hellowordl.py](./slides/week12/example_helloworld.py) |
+| 範例2 Hello, Route! | [example_route.py](./slides/week12/example_route.py) |
+| Post & Template| [Bottle2.pdf](https://drive.google.com/open?id=0B5P2VH3szaKEZFdvb25VM1JfV0k) |
+| 範例3 POST1 | [example_post1.py](./slides/week12/example_post1.py) |
+| 範例4 POST2 | [example_post2.py](./slides/week12/example_post2.py) |
+| 範例5 Template1 | [example_template.py](./slides/week12/example_template.py) |
+| 範例6 Template2 | [example_template2.py](./slides/week12/example_template2.py) |
