@@ -1,5 +1,5 @@
 Bottle
-==
+====
 
 基本架構
 ---
@@ -57,7 +57,7 @@ run(host='localhost', port=8080)
 第三行： `route('/hello/<name>')` 有一個標籤 `<name>`。    
 第四行： `def index(name)` 函式有一個參數 name，跟上面的`<name>`對應。   
 
-所以當使用者輸入 `http://localhost:8080/hello/AChin` 時，route會match這個網址，然後把網址中`AChin`對應到標籤 `<name>`，然後執行 `index("AChin")` 這個函式。   
+所以當使用者輸入網址 `http://localhost:8080/hello/AChin` 後，route會match這個網址，並把網址中的`AChin`對應到標籤 `<name>`，然後執行 `index(name)` 這個函式。   
 
 第五行：函式執行`return "Hello", name`，在這個範例中`name="AChin"`。
 
@@ -79,10 +79,6 @@ run(host='localhost', port=8080)
     Your Message: <input name="message" type="text" />
 </form>
 ```
-
-<form action="/" method="post">
-    Your Message: <input name="message" type="text" />
-</form>
 
 上面是一個表單，表單的行為被定義在 `<form action="/" method="post">` 中。    
 
