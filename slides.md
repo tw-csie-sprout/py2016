@@ -96,4 +96,3 @@
 | mytitle.tpl | [mytitle.tpl](./slides/week12/mytitle.tpl)
 | 範例6 Template2 | [example_template2.py](./slides/week12/example_template2.py) |
 | message.tpl | [message.tpl](./slides/week12/message.tpl) |
-| 作業說明 | [bottle.md](./slides/week12/HW.md) |
