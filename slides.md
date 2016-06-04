@@ -96,3 +96,11 @@
 | mytitle.tpl | [mytitle.tpl](./slides/week12/mytitle.tpl)
 | 範例6 Template2 | [example_template2.py](./slides/week12/example_template2.py) |
 | message.tpl | [message.tpl](./slides/week12/message.tpl) |
+
+## 第十四週投影片 06/05
+| 主題 | 投影片 |
+| ---- | ------ |
+| Cookie & Session | [sprout0605_bottle3.pdf](https://drive.google.com/file/d/0B11wpONoNJX2dTA5TlJUTnh0aXc/view?usp=sharing) |
+| 範例1 你的名字是 | [ex_cookie.py](./slides/week14/ex_cookie.py) |
+
+
